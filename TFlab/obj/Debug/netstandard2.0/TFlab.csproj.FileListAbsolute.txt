@@ -1,0 +1,15 @@
+C:\Users\Wilhab\source\repos\TFlab\TFlab\TFlab\bin\Debug\netstandard2.0\TFlab.deps.json
+C:\Users\Wilhab\source\repos\TFlab\TFlab\TFlab\bin\Debug\netstandard2.0\TFlab.dll
+C:\Users\Wilhab\source\repos\TFlab\TFlab\TFlab\bin\Debug\netstandard2.0\ref\TFlab.dll
+C:\Users\Wilhab\source\repos\TFlab\TFlab\TFlab\bin\Debug\netstandard2.0\TFlab.pdb
+C:\Users\Wilhab\source\repos\TFlab\TFlab\TFlab\obj\Debug\netstandard2.0\TFlab.csproj.AssemblyReference.cache
+C:\Users\Wilhab\source\repos\TFlab\TFlab\TFlab\obj\Debug\netstandard2.0\TFlab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilhab\source\repos\TFlab\TFlab\TFlab\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Wilhab\source\repos\TFlab\TFlab\TFlab\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Wilhab\source\repos\TFlab\TFlab\TFlab\obj\Debug\netstandard2.0\TFlab.AssemblyInfoInputs.cache
+C:\Users\Wilhab\source\repos\TFlab\TFlab\TFlab\obj\Debug\netstandard2.0\TFlab.AssemblyInfo.cs
+C:\Users\Wilhab\source\repos\TFlab\TFlab\TFlab\obj\Debug\netstandard2.0\TFlab.csproj.CoreCompileInputs.cache
+C:\Users\Wilhab\source\repos\TFlab\TFlab\TFlab\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Wilhab\source\repos\TFlab\TFlab\TFlab\obj\Debug\netstandard2.0\TFlab.dll
+C:\Users\Wilhab\source\repos\TFlab\TFlab\TFlab\obj\Debug\netstandard2.0\ref\TFlab.dll
+C:\Users\Wilhab\source\repos\TFlab\TFlab\TFlab\obj\Debug\netstandard2.0\TFlab.pdb
